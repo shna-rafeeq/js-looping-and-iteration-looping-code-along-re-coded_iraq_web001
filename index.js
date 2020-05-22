@@ -17,9 +17,8 @@ function writeCards(girls,eventName) {
  function countDown(num) {
     let i = num;
     while(i>-1){
-        
-        i--;
         console.log(i);
+        i--;
       
   }
  
